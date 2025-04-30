@@ -15,8 +15,6 @@ Software Engineering and Management student
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
--->
 
 **I SPEAK**
 <!--div id="techstack" align="center">
