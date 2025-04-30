@@ -8,15 +8,12 @@
 
 **ABOUT ME**
 
-Student of media and computer science who takes himself too seriously
-- 😓 Overestimates himself and takes on far too big projects
-- 🤯 Trying to improve user experiences with (nice) tools and plugins
-- 📫 Reachable on Discord ![Discord](https://img.shields.io/badge/Discord-ghastcrafthd-5865F2?&logo=discord&logoColor=white)
+Software Engineering and Management student
+- 😓 Currently in the 1. semester
+- 🤯 Trying to improve skills and gain knowledge
+- 📫 Reachable on Discord: t0rb3n)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
-<!--
-> There are only two kinds of languages: the ones people complain about and the ones nobody uses
-> -- <cite>Bjarne Stroustrup</cite>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 -->
