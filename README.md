@@ -41,7 +41,7 @@ Software Engineering and Management student
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
           />
-        <span><sup><b>C</b></sup></span>
+        <span><sup><b>PostgreSQL</b></sup></span>
         </td>
   </tbody>
 </table>
