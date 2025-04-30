@@ -27,41 +27,6 @@ Software Engineering and Management student
     <tr valign="top">
       <td width="80px" align="center">
           <img
-            alt="Java"
-            title="Java"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-          />
-        <span><sup><b>Java</b></sup></span>
-        <td width="80px" align="center">
-          <img
-            alt="Rust"
-            title="Rust"
-            width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/rust-original.svg"
-          />
-        <span><sup><b>Rust</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="Go"
-            title="Go"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
-          />
-        <span><sup><b>Go</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="JavaScript"
-            title="JavaScript"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-          />
-        <span><sup><b>JavaScript</b></sup></span>
-      </td>
-      <td width="80px" align="center">
-          <img
             alt="C"
             title="C"
             width="50px"
@@ -71,39 +36,12 @@ Software Engineering and Management student
         </td>
       <td width="80px" align="center">
           <img
-            alt="C++"
-            title="C++"
+            alt="PostgreSQL"
+            title="PostgreSQL"
             width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
           />
-        <span><sup><b>C++</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="Delphi"
-            title="Delphi"
-            width="50px"
-            src="https://github.com/GhastCraftHD/GhastCraftHD/blob/main/pascal.png"
-          />
-        <span><sup><b>Pascal</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="MySQL"
-            title="MySQL"
-            width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-          />
-        <span><sup><b>MySQL</b></sup></span>
-        </td>
-      <td width="80px" align="center">
-          <img
-            alt="SurrealQL"
-            title="SurrealQL"
-            width="50px"
-            src="https://github.com/surrealdb/.github/blob/main/img/icon.png"
-          />
-        <span><sup><b>SurrealQL</b></sup></span>
+        <span><sup><b>C</b></sup></span>
         </td>
   </tbody>
 </table>
