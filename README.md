@@ -47,5 +47,5 @@ Software Engineering and Management student
 </table>
 <br>
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhastCraftHD&layout=compact&theme=github_dark&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flussiger&layout=compact&theme=github_dark&langs_count=6">
 </div>
