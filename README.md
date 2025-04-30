@@ -9,9 +9,9 @@
 **ABOUT ME**
 
 Software Engineering and Management student
-- 😓 Currently in the 1. semester
+- 🏫 Currently in the 1. semester
 - 🤯 Trying to improve skills and gain knowledge
-- 📫 Reachable on Discord: t0rb3n)
+- 📫 Reachable on Discord: t0rb3n
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
