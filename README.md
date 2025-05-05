@@ -17,11 +17,6 @@ Software Engineering and Management B.Eng.
 
 
 **I SPEAK**
-<!--div id="techstack" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  
-</div-->
 <table align="center" width="450px">
   <tbody>
     <tr valign="top">
