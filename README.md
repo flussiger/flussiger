@@ -45,7 +45,7 @@ Software Engineering and Management B.Eng.
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
           />
-        <span><sup><b>C</b></sup></span>
+        <span><sup><b>Python</b></sup></span>
         </td>
   </tbody>
 </table>
