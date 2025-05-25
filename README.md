@@ -38,6 +38,15 @@ Software Engineering and Management B.Eng.
           />
         <span><sup><b>PostgreSQL</b></sup></span>
         </td>
+      <td width="80px" align="center">
+          <img
+            alt="Python"
+            title="Python"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+          />
+        <span><sup><b>C</b></sup></span>
+        </td>
   </tbody>
 </table>
 <br>
