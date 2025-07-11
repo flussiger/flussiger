@@ -61,7 +61,7 @@ Software Engineering and Management B.Eng.
             alt="SQLite3"
             title="SQLite3"
             width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"
           />
         <span><sup><b>SQLite3</b></sup></span>
         </td>
