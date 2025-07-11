@@ -45,7 +45,25 @@ Software Engineering and Management B.Eng.
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
           />
-        <span><sup><b>Python</b></sup></span>
+        <span><sup><b>C++</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="C++"
+            title="C++"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+          />
+        <span><sup><b>SQLite3</b></sup></span>
+        </td>
+      <td width="80px" align="center">
+          <img
+            alt="SQLite3"
+            title="SQLite3"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+          />
+        <span><sup><b>SQLite3</b></sup></span>
         </td>
   </tbody>
 </table>
