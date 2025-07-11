@@ -45,7 +45,7 @@ Software Engineering and Management B.Eng.
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
           />
-        <span><sup><b>C++</b></sup></span>
+        <span><sup><b>Python</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
@@ -54,7 +54,7 @@ Software Engineering and Management B.Eng.
             width="50px"
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
           />
-        <span><sup><b>SQLite3</b></sup></span>
+        <span><sup><b>C++</b></sup></span>
         </td>
       <td width="80px" align="center">
           <img
