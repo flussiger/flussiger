@@ -52,7 +52,7 @@ Software Engineering and Management B.Eng.
             alt="C++"
             title="C++"
             width="50px"
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
           />
         <span><sup><b>SQLite3</b></sup></span>
         </td>
