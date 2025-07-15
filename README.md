@@ -9,7 +9,7 @@
 **ABOUT ME**
 
 Software Engineering and Management B.Eng.
-- 🏫 Currently in the 1. semester
+- 🏫 Currently in the 2. semester
 - 🤯 Trying to improve skills and gain knowledge
 - 📫 Reachable on Discord: t0rb3n
 
