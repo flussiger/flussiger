@@ -65,6 +65,15 @@ Software Engineering and Management B.Eng.
           />
         <span><sup><b>SQLite3</b></sup></span>
         </td>
+      <td width="80px" align="center">
+          <img
+            alt="FastAPI"
+            title="FastAPI"
+            width="50px"
+            src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
+          />
+        <span><sup><b>FastAPI</b></sup></span>
+        </td>
   </tbody>
 </table>
 <br>
